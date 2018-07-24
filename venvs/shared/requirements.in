@@ -1,0 +1,32 @@
+# Python development
+ipython
+jupyter
+jupyterlab
+ptpython
+pylint
+ipdb
+
+# data and ML
+numpy
+pandas
+dask
+sklearn
+scipy
+statsmodels
+
+# AWS
+boto3
+awscli
+saws
+
+# visualisation
+matplotlib
+seaborn
+plotly
+dash
+dash-renderer
+dash-html-components
+dash-core-components
+
+# web
+flask
