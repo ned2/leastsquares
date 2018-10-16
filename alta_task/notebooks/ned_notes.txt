@@ -1,0 +1,1 @@
+SVM with ngrams 1-2 and no spaCy: 0.7268213383282938
