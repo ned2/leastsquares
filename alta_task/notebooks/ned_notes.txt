@@ -1,1 +1,8 @@
-SVM with ngrams 1-2 and no spaCy: 0.7268213383282938
+SVM with ngrams 1-2, spaCy, and sublinear_tf: 0.7341341746429964
+
+Time taken to run spaCy cleaner over data with 15 cores: 
+
+Next to try:
+ * different values of C for Linear SVC
+ * feature engineering?
+ * different kinds of features? eg cleaned noun chunks
